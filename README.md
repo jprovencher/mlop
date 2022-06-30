@@ -28,6 +28,9 @@ $$
 \end{align}
 $$
 
+et où
 
+$\alpha$ = taux d'apprentissage
 
+$m$ = taille de l'ensemble d'entrainement
 
