@@ -34,3 +34,5 @@ $\alpha$ = taux d'apprentissage
 
 $m$ = taille de l'ensemble d'entrainement
 
+## Régression linéaire multiple
+
