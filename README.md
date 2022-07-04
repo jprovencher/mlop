@@ -36,3 +36,16 @@ $m$ = taille de l'ensemble d'entrainement
 
 ## Régression linéaire multiple
 
+###MSE
+
+$$J(\mathbf{w},b) = \frac{1}{2m} \sum\limits_{i = 0}^{m-1} (f_{\mathbf{w},b}(\mathbf{x}^{(i)}) - y^{(i)})^2 $$ 
+
+où:
+
+$$ f_{\mathbf{w},b}(\mathbf{x}^{(i)}) = \mathbf{w} \cdot \mathbf{x}^{(i)} + b $$ 
+
+et où
+
+$$ \mathbf{x}^{(i)} $$ est le vecteur du $i^{ième}$ item de l'ensemble d'entrainement.
+
+
